@@ -13,8 +13,8 @@ pela Constituição Federal de 1988 e pelas leis que tratam da temática.
 
 ## Tecnologias Utilizadas
 
-- [VSCode](https://code.visualstudio.com/)
-- [HTML5](https://html.spec.whatwg.org/multipage/)
+- [VSCode](https://code.visualstudio.com/) 
+- [HTML5](https://html.spec.whatwg.org/multipage/) <img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
 - [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
 - [JavaScript](https://www.javascript.com/)
 - [jQuery](https://jquery.com/)
