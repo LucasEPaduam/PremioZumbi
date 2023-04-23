@@ -55,6 +55,8 @@ function redirectSearch() {
         window.location.href = userValue + ".html";
     } else {
         alert("Homenageado não encontrado.");
+        input.value = "";
+        searchInput.classList.remove('active');
     }
 
 }
