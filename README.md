@@ -19,7 +19,7 @@ pela Constituição Federal de 1988 e pelas leis que tratam da temática.
 - [JavaScript](https://www.javascript.com/)
 - [jQuery](https://jquery.com/)
 
-<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 ## Tela Inicial
 
