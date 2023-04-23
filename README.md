@@ -13,13 +13,12 @@ pela Constituição Federal de 1988 e pelas leis que tratam da temática.
 
 ## Tecnologias Utilizadas
 
-- [VSCode](https://code.visualstudio.com/) 
-- [HTML5](https://html.spec.whatwg.org/multipage/) 
-- [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
-- [JavaScript](https://www.javascript.com/)
-- [jQuery](https://jquery.com/)
+- [VSCode](https://code.visualstudio.com/) <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
+- [HTML5](https://html.spec.whatwg.org/multipage/) <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+- [CSS3](https://www.w3.org/Style/CSS/Overview.en.html) <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+- [JavaScript](https://www.javascript.com/) <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+- [jQuery](https://jquery.com/) <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 ## Tela Inicial
 
